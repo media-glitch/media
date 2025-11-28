@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 566.93 566.93">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #000;
+      }
+
+      .cls-1, .cls-3 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-4 {
+        font-family: Inter-ExtraLight, Inter;
+        font-size: 116.35px;
+        font-variation-settings: 'opsz' 14, 'wght' 200;
+        font-weight: 200;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        fill: #ff4e00;
+        stroke: #ff4e00;
+      }
+    </style>
+  </defs>
+  <path class="cls-3" d="M425.26,158.17H136.09c-7.76,0-14.06,6.29-14.06,14.06v192.97c0,7.76,6.29,14.06,14.06,14.06h111.43l33.15,62.1,25.14-62.1h119.45c7.76,0,14.06-6.29,14.06-14.06v-192.97c0-7.76-6.29-14.06-14.06-14.06Z"/>
+  <path class="cls-2" d="M268.53,112.39l-72.41,131.05c-5.25,9.51,1.62,21.16,12.48,21.16h148.85c11.01,0,17.87-11.94,12.32-21.45l-76.43-131.05c-5.58-9.56-19.45-9.4-24.81.29Z"/>
+  <line class="cls-1" x1="175.38" y1="299.23" x2="390.11" y2="299.23"/>
+  <line class="cls-1" x1="173.32" y1="326.89" x2="388.04" y2="326.89"/>
+  <text class="cls-4" transform="translate(265.05 234.29)"><tspan x="0" y="0">!</tspan></text>
+</svg>
