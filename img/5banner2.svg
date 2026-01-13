@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1134.14 566.93">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #010100;
+        font-family: Inter-Light, Inter;
+        font-size: 22px;
+        font-variation-settings: 'opsz' 14, 'wght' 300;
+        font-weight: 300;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-2, .cls-4 {
+        stroke: #000;
+      }
+
+      .cls-2, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-3, .cls-4, .cls-7 {
+        fill: none;
+      }
+
+      .cls-3, .cls-5 {
+        stroke: #010202;
+      }
+
+      .cls-7 {
+        stroke: #010100;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-6 {
+        stroke: #b564b5;
+      }
+
+      .cls-6, .cls-8 {
+        fill: #b564b5;
+      }
+
+      .cls-9 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-10 {
+        letter-spacing: -.03em;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x="69.13" y="32.47" width="935.78" height="506.38" rx="14.57" ry="14.57"/>
+  <text class="cls-1" transform="translate(223.47 113.23) scale(1.04 1)"><tspan x="0" y="0">APRENDIENDO</tspan></text>
+  <text class="cls-1" transform="translate(675.88 113.23) scale(1.04 1)"><tspan x="0" y="0">FR</tspan><tspan class="cls-10" x="26.9" y="0">A</tspan><tspan class="cls-9" x="41.07" y="0">C</tspan><tspan x="56.73" y="0">ASOS</tspan></text>
+  <text class="cls-1" transform="translate(223.47 367.86) scale(1.04 1)"><tspan x="0" y="0">MEJORAS</tspan></text>
+  <text class="cls-1" transform="translate(675.88 367.86) scale(1.04 1)"><tspan x="0" y="0">CELEBRAR</tspan></text>
+  <line class="cls-7" x1="537.13" y1="32.73" x2="537.13" y2="538.86"/>
+  <line class="cls-7" x1="68.66" y1="286.1" x2="1003.81" y2="286.1"/>
+  <g>
+    <path class="cls-5" d="M185.57,113.27c.22-2.57-.26-5.01-1.26-7.11,1.33-1.91,2.22-4.24,2.43-6.8.6-7.08-4.05-13.24-10.38-13.77-.85-.07-1.69-.03-2.51.1-1.85-3.13-4.93-5.3-8.56-5.61-2.5-.21-4.88.5-6.89,1.86-1.75-1.64-3.95-2.72-6.43-2.92-3.97-.33-7.66,1.64-10.01,4.9-.43-.09-.87-.17-1.31-.2-6.33-.53-11.94,4.78-12.54,11.85-.08.96-.06,1.9.05,2.81-2.83,2.13-4.83,5.6-5.18,9.66-.6,7.08,4.05,13.24,10.38,13.77,1.53.13,3.02-.09,4.41-.59,1.87,2.89,4.82,4.87,8.28,5.16,2.93.24,5.69-.77,7.89-2.62,1.86,2.19,4.41,3.65,7.34,3.89,2.05.17,4.02-.27,5.78-1.19,3.5,0,2.64-1.29,6.87,11.76h6.24c-6.61-11.75-2.24-14.68-2.24-14.68,3.85-1.83,7.23-5.32,7.65-10.26Z"/>
+    <path class="cls-3" d="M130.54,106.19s7.59-4.93,11.11,3.96"/>
+    <path class="cls-3" d="M151.52,119.68c-.12.09-1.9-10.5,7.14-12.41"/>
+    <path class="cls-3" d="M136.88,105.07c-.24-.58-2.4-12.1,8.2-12.44"/>
+    <path class="cls-3" d="M159.24,87.8c-.02-.14,8.73,1.37,6.55,10.4"/>
+    <path class="cls-3" d="M167.54,108.43c-.12-.06,6.03-6.44,12.32.43"/>
+  </g>
+  <g>
+    <circle class="cls-5" cx="618.14" cy="108.6" r="25.28"/>
+    <g>
+      <rect class="cls-6" x="598.69" y="106.69" width="38.9" height="3.81" transform="translate(123.07 494.34) rotate(-47.89)"/>
+      <rect class="cls-6" x="598.69" y="106.69" width="38.9" height="3.81" transform="translate(232.4 -386.48) rotate(42.11)"/>
+    </g>
+  </g>
+  <polygon class="cls-2" points="198.14 359.34 170.93 341.35 170.93 350.27 122.93 350.27 122.93 368.41 170.93 368.41 170.93 377.33 198.14 359.34"/>
+  <g>
+    <circle class="cls-8" cx="229.93" cy="170.48" r="6.46"/>
+    <line class="cls-7" x1="246.47" y1="170.48" x2="382.02" y2="170.48"/>
+  </g>
+  <g>
+    <circle class="cls-8" cx="229.93" cy="199.86" r="6.46"/>
+    <line class="cls-7" x1="246.47" y1="199.86" x2="382.02" y2="199.86"/>
+  </g>
+  <g>
+    <circle class="cls-8" cx="229.93" cy="229.24" r="6.46"/>
+    <line class="cls-7" x1="246.47" y1="229.24" x2="382.02" y2="229.24"/>
+  </g>
+  <g>
+    <circle class="cls-8" cx="682.34" cy="170.48" r="6.46"/>
+    <line class="cls-7" x1="698.88" y1="170.48" x2="834.42" y2="170.48"/>
+  </g>
+  <g>
+    <circle class="cls-8" cx="682.34" cy="199.86" r="6.46"/>
+    <line class="cls-7" x1="698.88" y1="199.86" x2="834.42" y2="199.86"/>
+  </g>
+  <g>
+    <circle class="cls-8" cx="682.34" cy="229.24" r="6.46"/>
+    <line class="cls-7" x1="698.88" y1="229.24" x2="834.42" y2="229.24"/>
+  </g>
+  <g>
+    <circle class="cls-8" cx="229.93" cy="408.02" r="6.46"/>
+    <line class="cls-7" x1="246.47" y1="408.02" x2="382.02" y2="408.02"/>
+  </g>
+  <g>
+    <circle class="cls-8" cx="229.93" cy="437.4" r="6.46"/>
+    <line class="cls-7" x1="246.47" y1="437.4" x2="382.02" y2="437.4"/>
+  </g>
+  <g>
+    <circle class="cls-8" cx="229.93" cy="466.78" r="6.46"/>
+    <line class="cls-7" x1="246.47" y1="466.78" x2="382.02" y2="466.78"/>
+  </g>
+  <g>
+    <circle class="cls-8" cx="682.34" cy="408.02" r="6.46"/>
+    <line class="cls-7" x1="698.88" y1="408.02" x2="834.42" y2="408.02"/>
+  </g>
+  <g>
+    <circle class="cls-8" cx="682.34" cy="437.4" r="6.46"/>
+    <line class="cls-7" x1="698.88" y1="437.4" x2="834.42" y2="437.4"/>
+  </g>
+  <g>
+    <circle class="cls-8" cx="682.34" cy="466.78" r="6.46"/>
+    <line class="cls-7" x1="698.88" y1="466.78" x2="834.42" y2="466.78"/>
+  </g>
+  <g>
+    <path class="cls-8" d="M594.06,368.15s10.69,4.39,8.06,14.94c4.83-.88,8.35-1.61,8.35-1.61,0,0,.29-16.55-11.57-19.92-1.03,1.17-4.83,6.59-4.83,6.59Z"/>
+    <g>
+      <path class="cls-4" d="M607.51,348.81l-26.44,38.46,45.54-8.81s1.09-19.07-19.1-29.66Z"/>
+      <line class="cls-4" x1="631.59" y1="357.13" x2="647.86" y2="347.88"/>
+      <line class="cls-4" x1="621.36" y1="347.83" x2="628.16" y2="331.4"/>
+      <line class="cls-4" x1="635.96" y1="371.03" x2="655.22" y2="371.11"/>
+    </g>
+  </g>
+</svg>
