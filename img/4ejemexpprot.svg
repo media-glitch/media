@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 566.93 566.93">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #008cf4;
+        stroke: #008cf4;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        stroke: #000;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.09em;
+      }
+
+      .cls-6 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-7 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-8 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-9 {
+        font-family: Inter18pt-ExtraLight, 'Inter 18pt';
+        font-size: 38.64px;
+        font-weight: 200;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x="233.65" y="135.3" width="198.61" height="226.7"/>
+  <line class="cls-2" x1="274.15" y1="178.21" x2="418.92" y2="178.21"/>
+  <rect class="cls-2" x="178.19" y="100.17" width="198.61" height="226.7"/>
+  <line class="cls-2" x1="205.38" y1="135.3" x2="350.15" y2="135.3"/>
+  <line class="cls-2" x1="205.38" y1="170.14" x2="350.15" y2="170.14"/>
+  <path class="cls-1" d="M455.73,215.94H199.5v-20.2c0-5.22-4.84-9.45-10.81-9.45h-103.01c-5.97,0-10.81,4.23-10.81,9.45v239.73c0,8.55,7.92,15.47,17.69,15.47h363.16c9.77,0,17.69-6.93,17.69-15.47v-204.05c0-8.55-7.92-15.47-17.69-15.47Z"/>
+  <text class="cls-9" transform="translate(120.67 278.8)"><tspan x="0" y="0">EJEMP</tspan><tspan class="cls-7" x="124.14" y="0">L</tspan><tspan x="144.42" y="0">O SOBRE</tspan><tspan x="12.67" y="46.37">EXPERIMEN</tspan><tspan class="cls-5" x="224.88" y="46.37">T</tspan><tspan class="cls-4" x="245.41" y="46.37">AR</tspan><tspan x="110.77" y="92.73">CON</tspan><tspan x="36.72" y="139.1">P</tspan><tspan class="cls-3" x="60.17" y="139.1">R</tspan><tspan class="cls-6" x="84.04" y="139.1">O</tspan><tspan class="cls-8" x="111.23" y="139.1">T</tspan><tspan class="cls-6" x="133.96" y="139.1">O</tspan><tspan x="161.15" y="139.1">TIPOS</tspan></text>
+</svg>
