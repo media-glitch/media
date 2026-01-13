@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 566.93 566.93">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #008cf4;
+        stroke: #008cf4;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        stroke: #000;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-7 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-8 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-9 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-10 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-11 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-12 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-13 {
+        font-family: Inter18pt-ExtraLight, 'Inter 18pt';
+        font-size: 38.64px;
+        font-weight: 200;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x="233.65" y="135.3" width="198.61" height="226.7"/>
+  <line class="cls-2" x1="274.15" y1="178.21" x2="418.92" y2="178.21"/>
+  <rect class="cls-2" x="178.19" y="100.17" width="198.61" height="226.7"/>
+  <line class="cls-2" x1="205.38" y1="135.3" x2="350.15" y2="135.3"/>
+  <line class="cls-2" x1="205.38" y1="170.14" x2="350.15" y2="170.14"/>
+  <path class="cls-1" d="M455.73,215.94H199.5v-20.2c0-5.22-4.84-9.45-10.81-9.45h-103.01c-5.97,0-10.81,4.23-10.81,9.45v239.73c0,8.55,7.92,15.47,17.69,15.47h363.16c9.77,0,17.69-6.93,17.69-15.47v-204.05c0-8.55-7.92-15.47-17.69-15.47Z"/>
+  <text class="cls-13" transform="translate(157.47 278.8)"><tspan x="0" y="0">EJEMP</tspan><tspan class="cls-11" x="124.14" y="0">L</tspan><tspan x="144.42" y="0">O DE</tspan><tspan x="-12.97" y="46.37">P</tspan><tspan class="cls-3" x="10.48" y="46.37">R</tspan><tspan class="cls-10" x="34.35" y="46.37">O</tspan><tspan class="cls-12" x="61.53" y="46.37">T</tspan><tspan class="cls-10" x="84.27" y="46.37">O</tspan><tspan x="111.45" y="46.37">TI</tspan><tspan class="cls-6" x="144.79" y="46.37">P</tspan><tspan x="165.39" y="46.37">ADO</tspan><tspan x="-20.03" y="92.73">DE UN E</tspan><tspan class="cls-8" x="129.92" y="92.73">R</tspan><tspan x="153.21" y="92.73">VICIO</tspan><tspan x="10.4" y="139.1">P</tspan><tspan class="cls-3" x="33.86" y="139.1">R</tspan><tspan class="cls-7" x="57.72" y="139.1">OA</tspan><tspan class="cls-4" x="109.57" y="139.1">CTI</tspan><tspan class="cls-9" x="170.54" y="139.1">V</tspan><tspan class="cls-5" x="194.24" y="139.1">O</tspan></text>
+</svg>
